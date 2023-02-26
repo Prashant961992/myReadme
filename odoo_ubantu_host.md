@@ -132,3 +132,8 @@ sudo systemctl status odoo
 ● odoo.service - Odoo
      Loaded: loaded (/etc/systemd/system/od
 ```
+Note: odoo store path on ubantu:
+
+```
+/usr/lib/python3/dist-packages/odoo/addons
+```
